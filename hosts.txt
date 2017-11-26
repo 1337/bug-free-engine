@@ -1,0 +1,29 @@
+# Don't tase me bro https://github.com/YalePrivacyLab/tracker-profiles/tree/master/trackers
+
+127.0.0.1	a4.tl
+127.0.0.1	accengage.com
+127.0.0.1	adnxs.com
+127.0.0.1	appsflyer.com
+127.0.0.1	appboy.com
+127.0.0.1	crashlytics.com
+127.0.0.1	demdex.net
+127.0.0.1	mng-ads.com
+127.0.0.1	doubleclick.net
+127.0.0.1	flurry.com
+127.0.0.1	hockeyapp.net
+127.0.0.1	mparticle.com
+127.0.0.1	leanplum.com
+127.0.0.1	localytics.com
+127.0.0.1	mopub.com
+127.0.0.1	nexage.com
+127.0.0.1	pushwoosh.com
+127.0.0.1	scorecardresearch.com
+127.0.0.1	smartadserver.com
+127.0.0.1	saspreview.com
+127.0.0.1	mobileapptracking.com
+127.0.0.1	tiqcdn.com
+127.0.0.1	databerries.com
+127.0.0.1	etl.tindersparks.com
+127.0.0.1	weborama.net
+127.0.0.1	weborama.fr
+127.0.0.1	xiti.com
