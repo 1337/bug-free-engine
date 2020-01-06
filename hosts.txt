@@ -27,3 +27,20 @@
 127.0.0.1	weborama.net
 127.0.0.1	weborama.fr
 127.0.0.1	xiti.com
+
+# https://www.reddit.com/r/Android/comments/ektg8u/chinese_spyware_preinstalled_on_all_samsung/fddq5ib/
+127.0.0.1	p.s.360.cn
+127.0.0.1	p.s.360.cn
+127.0.0.1	mvconf.f.360.cn
+127.0.0.1	mvconf.uk.cloud.360safe.com
+127.0.0.1	mvconf.lato.cloud.360safe.com
+127.0.0.1	mvconf.cloud.360safe.com
+127.0.0.1	eul.s.360.cn
+127.0.0.1	eul.s.360.cn
+127.0.0.1	g.s.360.cn
+127.0.0.1	g.s.360.cn
+127.0.0.1	care.help.360.cn
+127.0.0.1	mclean.f.360.cn
+127.0.0.1	mclean.uk.cloud.360safe.com
+127.0.0.1	mclean.lato.cloud.360safe.com
+127.0.0.1	mclean.cloud.360safe.com
