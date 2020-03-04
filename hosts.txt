@@ -44,3 +44,12 @@
 127.0.0.1	mclean.uk.cloud.360safe.com
 127.0.0.1	mclean.lato.cloud.360safe.com
 127.0.0.1	mclean.cloud.360safe.com
+
+# https://omicron-b.github.io/
+127.0.0.1	dapi.hmdglobal.net
+127.0.0.1	www.pppefa.com
+127.0.0.1	www.ppmxfa.com
+127.0.0.1	www.forcis.claro.com.co
+127.0.0.1	claro.com.co
+127.0.0.1	www.siticcol.com
+127.0.0.1	siticcol.com
